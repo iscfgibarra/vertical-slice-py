@@ -1,0 +1,1 @@
+from diamonds import *
